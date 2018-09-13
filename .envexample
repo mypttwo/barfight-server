@@ -1,0 +1,6 @@
+PORT=8000
+DB=mongodb://localhost:27017/barfight
+SECRET=secret
+EMAIL=email@gmail.com
+EMAILPWD=pwd
+URL=http://localhost:3000
